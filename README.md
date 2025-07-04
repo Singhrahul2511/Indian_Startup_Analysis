@@ -58,19 +58,23 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
    cd Indian_Startup_Analysis
 
 2. **Create a virtual environment**
+    ```bash
     python -m venv venv
     venv\\Scripts\\activate   # For Windows
     source venv/bin/activate  # For Linux/Mac
 
 3. **Install dependencies**
+    ```bash
     pip install -r requirements.txt
 
 4. **Run the Streamlit app**
+    ```bash
     streamlit run app.py
 
 5. **Open your browser**
-    App will run at http://localhost:8501
+    ```bash
+    http://localhost:8501
 
-6. **🌐 Live Demo**
-    You can also check the live version here:
+6. **🌐 Live Demo(You can also check the live version here:)**
+    ```bash
     🔗 https://indian-startup-analysis-57rq.onrender.com/
