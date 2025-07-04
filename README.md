@@ -17,11 +17,11 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 ## 📁 Project Structure
 
 📦 Indian_Startup_Analysis/
-├── app.py # Streamlit app
-├── startup_cleaned_updated.csv # Cleaned dataset
-├── requirements.txt # Required packages
-├── render.yaml # Render deployment config
-└── README.md # This file
+      ├── app.py # Streamlit app
+      ├── startup_cleaned_updated.csv # Cleaned dataset
+      ├── requirements.txt # Required packages
+      ├── render.yaml # Render deployment config
+      └── README.md # This file
 
 
 ---
@@ -33,6 +33,7 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 
 ![screenshot](assets/screenshot.png) *(optional)*
 
+
 ---
 
 ## 📦 Installation
@@ -42,13 +43,12 @@ git clone https://github.com/Singhrahul2511/Indian_Startup_Analysis.git
 cd Indian_Startup_Analysis
 pip install -r requirements.txt
 streamlit run app.py
+
+
 🛠️ Built With
 Streamlit
-
 Pandas
-
 Matplotlib
-
 Seaborn
 
 📈 Dataset
@@ -60,18 +60,10 @@ Rahul Kumar
 📧 aiwithrahul25@gmail.com
 🎥 YouTube: AI with Rahul
 
-📄 License
-This project is licensed under the MIT License.
 
 
 ---
 
-### ✅ Additional Suggestions:
-
-1. **Create a `LICENSE` file** (MIT):
-   - Add from: https://choosealicense.com/licenses/mit/
-
-2. **Add badges (optional)**:
 
 ```markdown
 ![GitHub last commit](https://img.shields.io/github/last-commit/Singhrahul2511/Indian_Startup_Analysis)
