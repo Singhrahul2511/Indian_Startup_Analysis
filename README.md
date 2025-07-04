@@ -86,7 +86,7 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 ## 🌐 Live Demo
 
 You can also check the live version here:  
-🔗 [https://your-render-url.onrender.com](#) *(Update this with your Render URL)*
+🔗 [https://indian-startup-analysis-57rq.onrender.com/]
 
 ---
 
