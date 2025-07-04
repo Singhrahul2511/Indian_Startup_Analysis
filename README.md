@@ -1,3 +1,4 @@
+
 # 🚀 Indian Startup Funding Analysis
 
 This Streamlit web app analyzes Indian startup funding trends using interactive visualizations. It provides insights from both startup and investor perspectives.
@@ -13,7 +14,6 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 - ✅ **Funding Heatmap:** Visualizes funding activity over time
 
 ---
-
 
 ## 📁 Project Structure
 
@@ -32,35 +32,24 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
     └── top_funded_startup.png
 ```
 
-
-
 ---
-
-## 🖥️ Demo
-
-🌐 Hosted on: [https://your-render-url.onrender.com](#)  
-*(Replace this with your actual URL)*
-
 
 ## 🖼️ Demo Screenshots
 
 ### 📊 Dashboard Overview
 ![Dashboard](demo/overview.png)
 
-### Overview Part 2
+### 📈 Overview Part 2
 ![overview](demo/overview2.png)
 
 ### 🔥 Startup Funding
 ![Funding Graph](demo/startup_funding.png)
 
-### 💰 Startup Information
+### 🧾 Startup Information
 ![Information](demo/startup_info.png)
 
 ### 💰 Top Funded Startup YOY
 ![Top Funded Startup](demo/top_funded_startup.png)
-
-
----
 
 ---
 
@@ -70,36 +59,55 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
    ```bash
    git clone https://github.com/Singhrahul2511/Indian_Startup_Analysis.git
    cd Indian_Startup_Analysis
-
    ```
-2. **Create a virtual environment**
-    ```bash
-    python -m venv venv
-    venv\\Scripts\\activate   # For Windows
-    source venv/bin/activate  # For Linux/Mac
 
-    ```
+2. **(Optional) Create a virtual environment**
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate   # For Windows
+   source venv/bin/activate  # For Linux/Mac
+   ```
 
 3. **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. **Run the Streamlit app**
-    ```bash
-    streamlit run app.py
-
-    ```
+   ```bash
+   streamlit run app.py
+   ```
 
 5. **Open your browser**
-    ```bash
-    http://localhost:8501
+   - App will run at `http://localhost:8501`
 
-    ```
+---
 
-6. **🌐 Live Demo(You can also check the live version here:)**
-    ```bash
-    🔗 https://indian-startup-analysis-57rq.onrender.com/
+## 🌐 Live Demo
 
-    ```
+You can also check the live version here:  
+🔗 [https://your-render-url.onrender.com](#) *(Update this with your Render URL)*
+
+---
+
+## 🛠️ Built With
+
+- [Streamlit](https://streamlit.io/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+
+---
+
+## 👨‍💻 Author
+
+**Rahul Kumar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-8ab740268/)  
+📧 aiwithrahul25@gmail.com  
+🎥 [YouTube: AI with Rahul](https://www.youtube.com/@aiwithrahul25)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
