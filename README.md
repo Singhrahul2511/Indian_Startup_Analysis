@@ -14,8 +14,7 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 
 ---
 
-<pre><code>```bash 📦 Indian_Startup_Analysis/ ├── app.py # Streamlit app ├── startup_cleaned_updated.csv # Cleaned dataset ├── requirements.txt # Required packages ├── render.yaml # Render deployment config ├── README.md # Project overview └── demo/ # Screenshots for README ├── overview.png ├── overview2.png ├── startup_funding.png ├── startup_info.png └── top_funded_startup.png ```</code></pre>
-
+<pre> ```bash 📦 Indian_Startup_Analysis/ ├── app.py # Streamlit app ├── startup_cleaned_updated.csv # Cleaned dataset ├── requirements.txt # Required packages ├── render.yaml # Render deployment config ├── README.md # Project overview └── demo/ # Screenshots for README ├── overview.png ├── overview2.png ├── startup_funding.png ├── startup_info.png └── top_funded_startup.png ``` </pre>
 
 ---
 
