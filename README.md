@@ -31,7 +31,23 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 🌐 Hosted on: [https://your-render-url.onrender.com](#)  
 *(Replace this with your actual URL)*
 
-![screenshot](assets/screenshot.png) *(optional)*
+
+## 🖼️ Demo Screenshots
+
+### 📊 Dashboard Overview
+![Dashboard](demo image/overview.png)
+
+### Overview Part 2
+![overview](demo image/overview2.png)
+
+### 🔥 Startup Funding
+![Funding Graph](demo image/startup_funding.png)
+
+### 💰 Startup Information
+![Information](demo image/startup_info.png)
+
+### 💰 Top Funded Startup YOY
+![Top Funded Startup](demo image/top_funded_startup.png)
 
 
 ---
