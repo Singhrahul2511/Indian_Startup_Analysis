@@ -48,35 +48,29 @@ This Streamlit web app analyzes Indian startup funding trends using interactive 
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/Singhrahul2511/Indian_Startup_Analysis.git
-cd Indian_Startup_Analysis
-pip install -r requirements.txt
-streamlit run app.py
-
-
-🛠️ Built With
-Streamlit
-Pandas
-Matplotlib
-Seaborn
-
-📈 Dataset
-Used from open-source startup funding data (manually cleaned and normalized).
-
-👨‍💻 Author
-Rahul Kumar
-🔗 LinkedIn
-📧 aiwithrahul25@gmail.com
-🎥 YouTube: AI with Rahul
-
-
-
 ---
 
+## 🚀 How to Run the Project Locally
 
-```markdown
-![GitHub last commit](https://img.shields.io/github/last-commit/Singhrahul2511/Indian_Startup_Analysis)
-![GitHub repo size](https://img.shields.io/github/repo-size/Singhrahul2511/Indian_Startup_Analysis)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Singhrahul2511/Indian_Startup_Analysis.git
+   cd Indian_Startup_Analysis
+
+2. **Create a virtual environment**
+    python -m venv venv
+    venv\\Scripts\\activate   # For Windows
+    source venv/bin/activate  # For Linux/Mac
+
+3. **Install dependencies**
+    pip install -r requirements.txt
+
+4. **Run the Streamlit app**
+    streamlit run app.py
+
+5. **Open your browser**
+    App will run at http://localhost:8501
+
+6. **🌐 Live Demo**
+    You can also check the live version here:
+    🔗 https://indian-startup-analysis-57rq.onrender.com/
